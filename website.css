@@ -23,8 +23,9 @@ ul{
     text-align:center;
 }
 body{
-    background-image: url("file:///C:/Users/hp/Desktop/website/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
+    background-image: url("file:///C:/Users/hp/Desktop/website/image/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
     background-size: cover;
+    background-color: red;
     background-repeat: no-repeat;
     
 }
